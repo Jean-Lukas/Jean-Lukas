@@ -1,7 +1,7 @@
 ### 👋 Welcome back to my profile
 - Studying Javascript and Calculus
 - Monoides: (a <> b) <> c = a <> (b <> c)
-
+##
 <div align="center">
   <a href="https://github.com/Jean-Lukas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jean-Lukas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
