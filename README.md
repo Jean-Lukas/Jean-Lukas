@@ -17,7 +17,7 @@
   <img align="center" alt="Luka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luka-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luka-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="Luka-Pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/app/image_maker/1272810/icon_aRrcvyPZeccBvtBt.png">
+  <img align="right" alt="Luka-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892949219961344021/896929227591532635/5227_CBRmcMfH.png">
 </div>
 
 ##
