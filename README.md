@@ -1,5 +1,5 @@
 ### 👋 Welcome back to my profile
-- Studying Javascript and Calculus
+- Studying Python and Calculus
 - Monoides: (a <> b) <> c = a <> (b <> c)
 ##
 <div align="center">
