@@ -15,6 +15,6 @@
   <img align="center" alt="Luka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luka-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="Luka-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892949219961344021/896929227591532635/5227_CBRmcMfH.png">
-</div>
+  <img align="right" alt="Picture" height="200" widht="200" src="https://exploringbits.com/wp-content/uploads/2022/01/Aesthetic-girl-pfp-5.jpg?ezimgfmt=rs:352x387/rscb3/ngcb3/notWebP">
+  </div>
 
