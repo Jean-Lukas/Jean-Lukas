@@ -20,15 +20,15 @@
  </div>
  
  ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-48D1CC?style=for-the-badge&logo=Python&labelColor=48D1CC)&nbsp;
 
 
 ### Studying in this moment:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-0D1117?style=for-the-badge&logo=Machine_Learning&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C++&logoColor=purple&labelColor=0D1117)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117)&nbsp;
-![Quantum physics](https://img.shields.io/badge/-Quantum_physics-0D1117?style=for-the-badge&logo=Quantum_physics&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-48D1CC?style=for-the-badge&logo=C&labelColor=48D1CC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-48D1CC?style=for-the-badge&logo=Python&labelColor=48D1CC)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-48D1CC?style=for-the-badge&logo=Machine_Learning&labelColor=48D1CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-48D1CC?style=for-the-badge&logo=C++&logoColor=purple&labelColor=48D1CC)&nbsp; 
+![SQL](https://img.shields.io/badge/-SQL-48D1CC?style=for-the-badge&logo=SQL&labelColor=48D1CC)&nbsp;
+![Quantum physics](https://img.shields.io/badge/-Quantum_physics-48D1CC?style=for-the-badge&logo=Quantum_physics&labelColor=48D1CC)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48D1CC&height=120&section=header"/>
