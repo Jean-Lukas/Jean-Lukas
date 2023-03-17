@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jean-Lukas&show_icons=true&count_private=true&hide_border=true&title_color=48d1cc&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jean Lucas github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jean-Lukas&show_icons=true&count_private=true&hide_border=true&title_color=48d1cc&icon_color=48d1cc&text_color=c9d1d9&bg_color=0d1117" alt="Jean Lucas github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Lukas&layout=compact&hide_border=true&title_color=48d1cc&text_color=ffffff&bg_color=0d1117" />
 </div>
 
