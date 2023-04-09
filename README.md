@@ -6,7 +6,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Picture" height="500" widht="500" src="https://cdna.artstation.com/p/assets/images/images/060/567/324/large/dajun-22649-2492100182-white-hair-1-robot-girl-army-white-suit-astronaut-helmet-indicator-hatch-door-fluorescent-lamp-astronaut-space-station-s.jpg?1678851536">
+  <img align="right" alt="Picture" height="500" widht="500" src="https://i.pinimg.com/564x/a9/98/62/a998626b883be5266999e99b9dd8abd5.jpg">
 </div>
 
 
