@@ -11,7 +11,7 @@
 
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/8ec209efcf3e9fa058855923f6028fb0/f1997dad6b47b70d-df/s540x810/823306772fcd82f23b68cb598e0f98287b667d1f.gif"  />
+  <img height="300" src="https://preview.redd.it/tutorial-how-to-hack-tabliss-to-create-a-cool-rice-script-v0-oupn7nsauujc1.gif?width=800&auto=webp&s=5dd01a76cdee02290299e44d59acb2a0959904a6"  />
 </div>
 <br clear="both">
 <div align="left">
