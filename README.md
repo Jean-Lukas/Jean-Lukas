@@ -1,8 +1,50 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000CC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
+<br clear="both">
+<h2 align="left">I am a student pursuing a Bachelor's degree in Computer Engineering, specializing in Security, Malware Analysis, Reverse Engineering, programming in C, Assembly, and Python!</h2>
 
-
-<div style="display: inline_block">
-  <img align="right" alt="Picture" height="400" widht="400" src="https://cdn.leonardo.ai/users/37d7ff45-eb23-4d62-bcb4-89ccca60ef60/generations/faf36470-4660-42bc-97ca-50d44a14ce58/Default_red_team_hacking_2.jpg">
+<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jean-Lukas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jean-Lukas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jean-Lukas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000CC&height=120&section=header"/>
+<br clear="both">
+<div align="center">
+  <img height="300" src="https://64.media.tumblr.com/8ec209efcf3e9fa058855923f6028fb0/f1997dad6b47b70d-df/s540x810/823306772fcd82f23b68cb598e0f98287b667d1f.gif"  />
+</div>
+<br clear="both">
+<div align="left">
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/account-protected-4372350-3627034.png?f=webp&w=256" height="30" alt="cyber security"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/malware-3176444-2653081.png?f=webp&w=256" height="30" alt="gentoo logo"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-archlinux-3521282-2944701.png?f=webp&w=256" height="30" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" alt="gcc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+</div>
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jean-lucas-cyber/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Jean-Lukas/Jean-Lukas/output/snake.svg" alt="Snake animation" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
