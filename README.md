@@ -3,7 +3,8 @@
 <h2 align="left">I am a student pursuing a Bachelor's degree in Computer Engineering</h2>
 <h3 align=~left>languages:</h3>
 <h3 align=~left>- English</h3>
-<h3 align=~left>- Russo</h3>
+<h3 align=~left>- Japonês</h3>
+<h3 align=~left>- Mandarim</h3>
 <br>
 
 <br clear="both">
