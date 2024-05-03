@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
-<h2 align="left">I am a student pursuing a Bachelor's degree in Computer Engineering, specializing in Security, Malware Analysis, Reverse Engineering, programming in C, Assembly, and Python!</h2>
+<h2 align="left">I am a student pursuing a Bachelor's degree in Computer Engineering</h2>
 <h3 align=~left>languages:</h3>
 <h3 align=~left>- English</h3>
 <h3 align=~left>- Russo</h3>
@@ -22,9 +22,7 @@
 </div>
 <br clear="both">
 <div align="left">
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/account-protected-4372350-3627034.png?f=webp&w=256" height="30" alt="cyber security"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/malware-3176444-2653081.png?f=webp&w=256" height="30" alt="gentoo logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-archlinux-3521282-2944701.png?f=webp&w=256" height="30" alt="linux" />
   <img width="12" />
