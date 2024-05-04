@@ -6,6 +6,7 @@
 <h3 align=~left>- Japonês</h3>
 <h3 align=~left>- Mandarim</h3>
 <br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Byte0x86.png" alt="TryHackMe">
 
 <br clear="both">
 
