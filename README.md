@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
-<h2 align="left">I am a student pursuing a Bachelor's degree in Computer Engineering</h2>
+<h2 align="left">I am a student pursuing a Bachelor's degree in Mechatronics Engineering</h2>
+<h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3 align=~left>languages:</h3>
 <h3 align=~left>- English</h3>
 <h3 align=~left>- Japonês</h3>
 <h3 align=~left>- Mandarim</h3>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Byte0x86.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kurisu0x.png" alt="TryHackMe">
+
 
 <br clear="both">
 
@@ -20,7 +22,7 @@
 
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://preview.redd.it/tutorial-how-to-hack-tabliss-to-create-a-cool-rice-script-v0-oupn7nsauujc1.gif?width=800&auto=webp&s=5dd01a76cdee02290299e44d59acb2a0959904a6"  />
+  <img height="300" src=""  />
 </div>
 <br clear="both">
 <div align="left">
