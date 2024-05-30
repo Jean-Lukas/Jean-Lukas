@@ -7,7 +7,8 @@
 <h3 align=~left>- Japonês</h3>
 <h3 align=~left>- Mandarim</h3>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Kurisu0x.png" alt="TryHackMe">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mench.png" alt="TryHackMe">
 
 
 <br clear="both">
