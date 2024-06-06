@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
-<h2 align="left">I am a student pursuing a Bachelor's degree in Mechatronics Engineering</h2>
+<h2 align="left">I am a student pursuing a Bachelor's degree in Computer engineering</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3 align=~left>languages:</h3>
 <h3 align=~left>- English</h3>
@@ -22,7 +22,7 @@
 
 <br clear="both">
 <div align="center">
-  <img height="300" src=""  />
+  <img height="300" src="https://pa1.aminoapps.com/7553/9891b8405d0a89ea07da34d73e0e952a825612f5r1-480-270_hq.gif"  />
 </div>
 <br clear="both">
 <div align="left">
