@@ -2,6 +2,7 @@
 <br clear="both">
 <h2 align="left">I am a student pursuing a Bachelor's degree in Computer engineering</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
+<h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
 <h3 align=~left>languages:</h3>
 <h3 align=~left>- English</h3>
 <h3 align=~left>- Japonês</h3>
@@ -19,10 +20,9 @@
 </div>
 
 
-
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://pa1.aminoapps.com/7553/9891b8405d0a89ea07da34d73e0e952a825612f5r1-480-270_hq.gif"  />
+  <img height="300" src="https://media.tenor.com/JWkAgvjp2aoAAAAM/haku-naruto.gif"  />
 </div>
 <br clear="both">
 <div align="left">
