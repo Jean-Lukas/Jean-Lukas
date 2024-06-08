@@ -3,6 +3,7 @@
 <h2 align="left">I am a student pursuing a Bachelor's degree in Computer engineering</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
+<h3> Maria, minhas mães, Engenharia é a construção que moldo em minha mente. A cada peça, é uma alegria; cada montagem, uma sinfonia. Dedico minha vida a cada cálculo montado em harmonia, com uma mente que envolva o tridimensionalismo. Encanto-me em sonhos lúcidos de meus projetos, meus pensamentos fluem diante do alvorecer com um toque de neblina. É através dessas junções que conquistei um pedaço do cosmos no universo. </h3>
 <h3 align=~left>languages:</h3>
 <h3 align=~left>- English</h3>
 <h3 align=~left>- Japonês</h3>
