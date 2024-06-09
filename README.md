@@ -20,10 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jean-Lukas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://media.tenor.com/JWkAgvjp2aoAAAAM/haku-naruto.gif"  />
+  <img height="300" src="https://64.media.tumblr.com/5ae76b1b0de4c5c910bb17d753efbe95/tumblr_p5lt0qX26B1uhx88zo1_500.gif"  />
 </div>
 <br clear="both">
 <div align="left">
