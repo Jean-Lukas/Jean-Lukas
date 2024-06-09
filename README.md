@@ -19,10 +19,9 @@
   <img src="https://streak-stats.demolab.com?user=Jean-Lukas&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jean-Lukas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/5ae76b1b0de4c5c910bb17d753efbe95/tumblr_p5lt0qX26B1uhx88zo1_500.gif"  />
+  <img height="300" src="https://64.media.tumblr.com/9544b26f919a8e45df7b30eca83de761/tumblr_pktrjuw0Ia1xggw0so1_500.gif"  />
 </div>
 <br clear="both">
 <div align="left">
