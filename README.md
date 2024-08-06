@@ -5,11 +5,7 @@
 <h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
 <h3 align=~left>languages:</h3>
 <h3 align=~left>- English</h3>
-<h3 align=~left>- Japonês</h3>
-<h3 align=~left>- Mandarim</h3>
 <br>
-
-
 
 <br clear="both">
 
