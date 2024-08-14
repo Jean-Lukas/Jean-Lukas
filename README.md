@@ -17,25 +17,37 @@
 </div>
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7830c905-11f4-44a9-8327-e393d78b5258/ddc6zz5-828a501a-a399-498a-9048-ac9e877c9f99.jpg/v1/fill/w_1024,h_576,q_75,strp/evangelion_by_lodi18_ddc6zz5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNzgzMGM5MDUtMTFmNC00NGE5LTgzMjctZTM5M2Q3OGI1MjU4XC9kZGM2eno1LTgyOGE1MDFhLWEzOTktNDk4YS05MDQ4LWFjOWU4NzdjOWY5OS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lh3oSGJQGc_4L7HSm7nVGtxpbxsG4tnylPpKnMnD4iA"  />
+  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/59ba459d-bf4b-47f4-b7a5-af8ecd81beef/dffmnnm-26804993-6ba8-42ac-b80d-e413b7317a01.jpg/v1/fill/w_1192,h_670,q_70,strp/ayanami_1_by_a_roll_dffmnnm-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTliYTQ1OWQtYmY0Yi00N2Y0LWI3YTUtYWY4ZWNkODFiZWVmXC9kZmZtbm5tLTI2ODA0OTkzLTZiYTgtNDJhYy1iODBkLWU0MTNiNzMxN2EwMS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Y7c8WjXpAJnA3_8MWqSom7KM8OUG9jY9T9RH2uYUYSA"  />
 </div>
 <br clear="both">
 <div align="left">
   <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-archlinux-3521282-2944701.png?f=webp&w=256" height="30" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" height="30" alt="tensorflow logo" />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" height="30" alt="fastapi logo" />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="30" alt="flask logo"/>
+    <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" alt="gcc logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
+    <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-archlinux-3521282-2944701.png?f=webp&w=256" height="30" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" height="30" alt="nvim logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original-wordmark.svg" height="30" alt="gentoo logo" />
+  <img width="12" />
 </div>
 
 <br clear="both">
