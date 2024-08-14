@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
+<h3> Grato a Deus por me dar a chance de seguir meus sonhos e por iluminar meu caminho. Prometo honrar cada promessa feita. À minha mãe, meu eterno agradecimento por me oferecer o apoio e amor necessários para transformar meus sonhos em realidade. Seu sacrifício e dedicação são a fonte inesgotável da minha força e esperança.</h3>
 <h2 align="left">I am a student pursuing a Bachelor's degree in Computer engineering</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
@@ -7,7 +8,6 @@
 <h3 align=~left>- English</h3>
 <h3 align=~left>- Mandarim</h3>
 <br>
-
 <br clear="both">
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/9544b26f919a8e45df7b30eca83de761/tumblr_pktrjuw0Ia1xggw0so1_500.gif"  />
+  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7830c905-11f4-44a9-8327-e393d78b5258/ddc6zz5-828a501a-a399-498a-9048-ac9e877c9f99.jpg/v1/fill/w_1024,h_576,q_75,strp/evangelion_by_lodi18_ddc6zz5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNzgzMGM5MDUtMTFmNC00NGE5LTgzMjctZTM5M2Q3OGI1MjU4XC9kZGM2eno1LTgyOGE1MDFhLWEzOTktNDk4YS05MDQ4LWFjOWU4NzdjOWY5OS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lh3oSGJQGc_4L7HSm7nVGtxpbxsG4tnylPpKnMnD4iA"  />
 </div>
 <br clear="both">
 <div align="left">
