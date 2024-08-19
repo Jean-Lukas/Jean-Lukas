@@ -3,9 +3,9 @@
 <h2 align="left">I am a student pursuing a Bachelor's degree in Computer engineering</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
-<h3 align=~left>languages:</h3>
+<h3 align=~left>studying languages:</h3>
 <h3 align=~left>- English</h3>
-<h3 align=~left>- Mandarim</h3>
+<h3 align=~left>- Espanhol</h3>
 <br>
 <br clear="both">
 
