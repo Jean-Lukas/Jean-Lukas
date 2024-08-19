@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
-<h3> Grato a Deus por me dar a chance de seguir meus sonhos e por iluminar meu caminho. Prometo honrar cada promessa feita. À minha mãe, meu eterno agradecimento por me oferecer o apoio e amor necessários para transformar meus sonhos em realidade. Seu sacrifício e dedicação são a fonte inesgotável da minha força e esperança.</h3>
 <h2 align="left">I am a student pursuing a Bachelor's degree in Computer engineering</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
