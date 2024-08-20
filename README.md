@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
-<h2 align="left">I am a student pursuing a Bachelor's degree in Computer engineering</h2>
+<h2 align="left">Sou desenvolvedor de APIs em Python, especializado em programação assíncrona, boas práticas de segurança e autenticação. Também construo o front-end das minhas aplicações, garantindo uma integração eficiente com as APIs que desenvolvo. 
+<h2>Utilizo a tecnologia FastAPI para criar as APIs, pois ela é rápida, escalável e possui uma construção ágil devido à sua estrutura baseada no Starlette para web e no Pydantic para manipulação de dados.</h2>
+<h2>Além disso, a FastAPI oferece facilidade de uso, documentação automática, o que facilita a vida dos desenvolvedores, e programação assíncrona, permitindo executar diversas tarefas simultaneamente, garantindo velocidade sem bloquear uma tarefa para executar outra.</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
 <h3 align=~left>studying languages:</h3>
@@ -16,7 +18,7 @@
 </div>
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/59ba459d-bf4b-47f4-b7a5-af8ecd81beef/dffmnnm-26804993-6ba8-42ac-b80d-e413b7317a01.jpg/v1/fill/w_1192,h_670,q_70,strp/ayanami_1_by_a_roll_dffmnnm-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTliYTQ1OWQtYmY0Yi00N2Y0LWI3YTUtYWY4ZWNkODFiZWVmXC9kZmZtbm5tLTI2ODA0OTkzLTZiYTgtNDJhYy1iODBkLWU0MTNiNzMxN2EwMS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Y7c8WjXpAJnA3_8MWqSom7KM8OUG9jY9T9RH2uYUYSA"  />
+  <img height="300" src="https://i.imgur.com/QQfML5x.png"  />
 </div>
 <br clear="both">
 <div align="left">
