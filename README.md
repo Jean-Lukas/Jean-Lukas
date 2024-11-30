@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
-<h2 align="left">Sou desenvolvedor de APIs em Python, especializado em programação assíncrona, boas práticas de segurança e autenticação. Também construo o front-end das minhas aplicações, garantindo uma integração eficiente com as APIs que desenvolvo. 
-<h2>Utilizo a tecnologia FastAPI para criar as APIs, pois ela é rápida, escalável e possui uma construção ágil devido à sua estrutura baseada no Starlette para web e no Pydantic para manipulação de dados.</h2>
-<h2>Além disso, a FastAPI oferece facilidade de uso, documentação automática, o que facilita a vida dos desenvolvedores, e programação assíncrona, permitindo executar diversas tarefas simultaneamente, garantindo velocidade sem bloquear uma tarefa para executar outra.</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
 <h3 align=~left>studying languages:</h3>
