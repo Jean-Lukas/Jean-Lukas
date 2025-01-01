@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
-<h2> Engenheiro de Software.</h2>
+<h2> Studying Software Engineering 4th semester.</h2>
 <h3> Espalhe gentileza por onde passar e esteja sempre pronto para ouvir com humildade, assim você construirá laços preciosos.</h3>
 <h3> Seja tão determinado a ponto de enfrentar cada obstáculo com coragem, sem permitir que nada o detenha em sua jornada em direção ao sucesso.</h3>
-<h3 align=~left>studying languages:</h3>
+<h3 align=~left>Languages:</h3>
 <h3 align=~left>- English</h3>
-<h3 align=~left>- Japonês</h3>
+<h3 align=~left>- Russo</h3>
 <br>
 <br clear="both">
 
@@ -16,20 +16,10 @@
 </div>
 <br clear="both">
 <div align="center">
-  <img height="300" src="https://i.imgur.com/QQfML5x.png"  />
+  <img height="300" src="https://preview.redd.it/trained-a-lora-for-ascii-art-is-it-good-let-me-know-what-v0-6xroouutgyya1.png?width=1080&crop=smart&auto=webp&s=1c880c2f4428969f0e267d1e035e10cf255c8f40"  />
 </div>
 <br clear="both">
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" height="30" alt="tensorflow logo" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" height="30" alt="fastapi logo" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="30" alt="flask logo"/>
-    <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" alt="gcc logo"  />
   <img width="12" />
@@ -45,7 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" height="30" alt="nvim logo"  />
     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original-wordmark.svg" height="30" alt="gentoo logo" />
   <img width="12" />
 </div>
 
