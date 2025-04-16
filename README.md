@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Reversefx.png" alt="Reversefx" />
-<h2></h2>
 <h3> Um pensamento impresso nesta substância é capaz de produzir o que se pensa, e o que você pensa é produzido através dessa substância.</h3>
 <h3 align=~left>Languages:</h3>
 <h3 align=~left>- English</h3>
@@ -21,12 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
-    <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-archlinux-3521282-2944701.png?f=webp&w=256" height="30" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" height="30" alt="nvim logo"  />
-    <img width="12" />
-  <img width="12" />
 </div>
 
 <br clear="both">
