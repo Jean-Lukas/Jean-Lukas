@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 <br clear="both">
 <h3> Um pensamento impresso nesta substância é capaz de produzir o que se pensa, e o que você pensa é produzido através dessa substância.</h3>
-<h3> My Portfolio: https://jean-lukas.github.io/Portfolio/</h3>
 <h3 align=~left>Languages:</h3>
 <h3 align=~left>- English</h3>
 <br>
